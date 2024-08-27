@@ -37,7 +37,7 @@ Check out my repositories to see more of my work!
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajcrack&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishabhpatidar117&show_icons=true&theme=radical)
 
 Thanks for visiting my profile! Feel free to explore my repositories and reach out if you want to collaborate on a project.
 
