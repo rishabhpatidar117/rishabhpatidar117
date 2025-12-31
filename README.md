@@ -1,47 +1,21 @@
-# 👋 Hello, I'm [Your Name]
+<h1 align="center">Hi 👋, I'm Rishabh Patidar</h1>
+<h3 align="center">A passionate FullStack developer from India</h3>
 
-**Flutter Developer | Mobile App Enthusiast**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhpatidar117&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhpatidar117" /> </p>
 
-Welcome to my GitHub profile! I'm a passionate Flutter developer with a knack for building beautiful and efficient mobile applications. I love exploring new technologies and continuously improving my skills.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabhpatidar117" alt="rishabhpatidar117" /></a> </p>
 
-## 🚀 Skills & Technologies
+- 🔭 I’m currently working on **Whatsapp Web**
 
-- **Flutter & Dart**: Building cross-platform mobile apps with a focus on performance and UI/UX.
-- **Firebase**: Integration of backend services like Firestore, Authentication, Cloud Functions, and more.
-- **State Management**: Provider, Riverpod, Bloc, GetX.
-- **API Integration**: RESTful APIs, GraphQL.
-- **Tools**: Git, VSCode, Android Studio, Xcode.
-- **Other**: JavaScript, Java, jQuery, HTML/CSS.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## 🛠 Projects
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-Here are some of my notable projects:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhpatidar117&show_icons=true&locale=en&layout=compact" alt="rishabhpatidar117" /></p>
 
-- **[Project Name 1]**: A brief description of your project, what it does, and the technologies used.
-- **[Project Name 2]**: Another project showcasing your expertise in Flutter.
-- **[Project Name 3]**: If you have a third project, describe it here.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhpatidar117&show_icons=true&locale=en" alt="rishabhpatidar117" /></p>
 
-Check out my repositories to see more of my work!
-
-## 🌱 Currently Learning
-
-- Advanced Flutter concepts and patterns
-- Backend development with Node.js and Firebase
-- Exploring AI and machine learning integration in mobile apps
-
-## 📫 How to Reach Me
-
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishabhpatidar117&show_icons=true&theme=radical)
-
-Thanks for visiting my profile! Feel free to explore my repositories and reach out if you want to collaborate on a project.
-
-<!---
-rishabhpatidar117/rishabhpatidar117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhpatidar117&" alt="rishabhpatidar117" /></p>
